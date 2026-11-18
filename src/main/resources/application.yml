@@ -10,3 +10,4 @@ spring:
         name: portfolio-mcp
         version: 1.0.0
         type: SYNC
+        protocol: STREAMABLE
